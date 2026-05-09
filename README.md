@@ -1,3 +1,7 @@
+
+Unable to find issues link; best option observed for addressment. Being f-droid upon Andriod; observed lack of synchronicity betwixt multiple such devices. There are many incompatible apps on mine main device; yet, [un]installed apps dothn't match versions. Of the beta version; I dothn't like that manual refresh isn't an interaction anymore. thank yiz in advance. God[s] bless/speed!!🤟
+
+
 <div align="center">
 
 <p><img src="https://gitlab.com/fdroid/artwork/-/raw/master/fdroid-logo-2015/fdroid-logo.svg" width="200"></p>
